@@ -86,6 +86,7 @@ return (
   <h2>URL : {x.url }</h2>
   
  <p> Shortened url :<a href={x.shorturl} target="_blank">{x.string}</a></p>
+ <p>No.of clicks : {x.count}</p>
 </div>)
 })}
 </div>
