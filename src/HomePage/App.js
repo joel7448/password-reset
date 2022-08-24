@@ -26,6 +26,7 @@ function App() {
 <Route path="/userverification" element={<Mailverification></Mailverification>}/>
 <Route path="passwordreset/:id" element={<Passwordreset></Passwordreset>}/>
 <Route path="/dashboard/:id" element={<Dashboard></Dashboard>}/>
+
   </Routes>
   </BrowserRouter>
    

@@ -1,0 +1,28 @@
+.form-control{
+    margin :20px;
+}
+.form-url{
+    margin:30px;
+    border-radius:20px;
+    padding:50px;
+   border : 2px solid skyblue;
+}
+.btn{
+    margin-left:10px;
+}
+.container{
+
+  
+padding: 20px;   
+    
+}
+.url{
+    border-radius: 20px;
+    margin: 10px;
+    border: 2px solid salmon;
+}
+.link{
+    text-decoration: none;
+    color:inherit;
+}
+
